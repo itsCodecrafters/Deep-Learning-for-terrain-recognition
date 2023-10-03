@@ -1,0 +1,2 @@
+# Deep Learning for terrain recognition
+ TerrainVision is an open-source software project that leverages deep learning techniques, specifically Convolutional Neural Networks (CNN), to perform comprehensive terrain recognition and analysis using visual input. Our goal is to provide a versatile and robust solution for identifying and understanding various types of terrains, such as sandy, rocky, grassy, and marshy, while also offering valuable insights into implicit terrain properties like roughness and slipperiness.
