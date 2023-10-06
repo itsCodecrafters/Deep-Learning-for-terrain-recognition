@@ -1,6 +1,6 @@
 # TerraVision
 
-TerraVision is an software project designed to revolutionize terrain recognition and analysis using deep learning techniques, particularly Convolutional Neural Networks (CNNs). Our mission is to provide an adaptable and robust solution for accurately identifying diverse terrains like sandy, rocky, grassy, and marshy, while also delivering valuable insights into implicit terrain properties such as roughness and slipperiness.
+TerraVision is an software project designed to revolutionize terrain recognition and analysis using deep learning techniques, particularly Convolutional Neural Networks (CNNs). Our mission is to provide an adaptable and robust solution for accurately identifying diverse terrains like sandy, rocky, grassy, and marshy, while also delivering valuable insights into implicit terrain properties such as roughness and slipperiness along with a detailed 3D model creation.
 
 ## Technology Stack
 
