@@ -5,7 +5,7 @@ TerraVision is an software project designed to revolutionize terrain recognition
 ## Technology Stack
 
 - **Front-end (User Interface)**: Tkinter, PyQt.
-- **3D Model Making and Processing**: Blender Python API, Point Cloud Library (PCL).
+- **3D Model Making, Processing and Visualization**: Blender Python API, Point Cloud Library (PCL), Mayavi.
 - **Computer Vision and Image Processing**: OpenCV, Numpy, Pandas.
 - **Deep Learning Model**: Tensorflow/PyTorch.
 
